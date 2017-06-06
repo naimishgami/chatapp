@@ -1,0 +1,17 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Chat Demo App",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Test",
+  "license": "ISC",
+  "dependencies": {
+    "express":"*",
+    "socket.io":"*",
+    "body-parser":"*"
+  }
+}
